@@ -15,5 +15,8 @@ public class Tarefa {
         this.dataEntrega = dataEntrega;
     }
 
-    
+    public void status() { 
+        System.out.println("Pendente");
+    }
+        
 }
