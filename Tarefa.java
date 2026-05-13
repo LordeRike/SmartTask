@@ -5,5 +5,5 @@ public class Tarefa {
     public Tarefa(String descricao) {
         this.descricao = descricao;
         this.concluida = false;
-    }
+    }    
 }
