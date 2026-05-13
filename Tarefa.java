@@ -17,6 +17,7 @@ public class Tarefa {
 
     public void status() { 
         System.out.println("Pending");
+        System.out.println("Pending");
     }
 
 }
