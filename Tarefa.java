@@ -16,7 +16,7 @@ public class Tarefa {
     }
 
     public void status() { 
-        System.out.println("Pendente");
+        System.out.println("Pending");
     }
-        
+
 }
